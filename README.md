@@ -58,7 +58,7 @@ Short GIF showing the result on project_video.mp4.
     advanced-curved-lane-detection/
     ├── input_video/          # Raw input videos
     ├── output/               # Output videos or images with detected lanes
-    ├── lane_detection.py     # Main detection script
+    ├── code.py     # Main detection script
     ├── requirements.txt      # Python dependencies
     ├── README.md
     └── LICENSE
